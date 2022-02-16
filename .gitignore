@@ -1,0 +1,4 @@
+node_modules
+bkp
+cypress/videos
+cypress/screenshots
